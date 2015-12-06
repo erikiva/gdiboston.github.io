@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.repo {
+	background: rgba(159, 229, 241, 0.57);
+	margin: 1em 1%;
+	width: 98%;
+	padding: 1em;
+	box-sizing: border-box;
+	font-size: 1.2em;
+}
+.error {
+	background: rgba(241, 167, 159, 0.57);
+}
+.repo a {
+	font-weight: bold;
+	color: #FF166A;
+	text-decoration: none;
+}
+.description {
+	display: block;
+	margin: .5em 0 0 0;
+}
