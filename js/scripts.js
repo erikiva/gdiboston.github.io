@@ -16,7 +16,7 @@ $(document).ready(function(){
 					}                    
 					$List.append(
 						  '<div class="repo">' 
-							+ ' <a href="' + p_oRepo.html_url + '">'+ p_oRepo.name +'</a>' 
+							+ ' <a href="/' + p_oRepo.name + '">'+ p_oRepo.name +'</a>' 
 							+ '<span class="description">' + p_oRepo.description + '</span>'
 						+ '</div>'
 					);
